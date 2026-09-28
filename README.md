@@ -26,7 +26,16 @@ I am a BSc IT undergraduate interested in software development and technology.
 
 ### 🎓 Student Management System
 
-A student management system developed using C#.
+A student management application developed as a programming project.
+
+Main features:
+
+Student information management
+Add, update and delete student records
+Search student information
+Manage student details
+
+Technology: C# .NET SQL HTML CSS JavaScript
 
 ### 🏦 Online Banking System
 
@@ -35,6 +44,10 @@ An online banking system developed using .NET.
 ### 💰 Java Payroll System
 
 A Java-based payroll management system for managing employee information and salary calculations.
+
+### 🎓 Student Management System
+
+A student management system developed using C#.
 
 ## 📚 Currently Learning
 
